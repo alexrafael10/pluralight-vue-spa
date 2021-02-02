@@ -2,10 +2,15 @@
     "name": "vue-spa",
     "version": "1.0.0",
     "description": "pluralsight-vue-spa",
-    "scripts": {},
+    "scripts": {
+        "start": "node server"
+    },
     "keywords": [],
     "authors": "alexrafael10@gmail.com",
     "license": "MIT",
-    "dependencies": {},
+    "dependencies": {
+        "express": "^4.17.1",
+        "vue": "^2.6.12"
+    },
     "devDependencies": {}
 }
