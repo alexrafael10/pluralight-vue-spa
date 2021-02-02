@@ -12,5 +12,7 @@
         "express": "^4.17.1",
         "vue": "^2.6.12"
     },
-    "devDependencies": {}
+    "devDependencies": {
+        "webpack": "^3.5.5"
+    }
 }
