@@ -1,0 +1,11 @@
+{
+    "name": "vue-spa",
+    "version": "1.0.0",
+    "description": "pluralsight-vue-spa",
+    "scripts": {},
+    "keywords": [],
+    "authors": "alexrafael10@gmail.com",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}
