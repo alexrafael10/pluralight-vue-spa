@@ -6,13 +6,13 @@ const config = {
     },
     resolve: {
         alias: {
-            vue: "vue/dit/vue.js"
+            vue: "vue/dist/vue.js"
         }
     },
     output: {
         path: path.resolve(__dirname, "../dist"),
         publicPath: "/",
-        filename: "assets/js/[name].j"
+        filename: "assets/js/[name].js"
     }
 }
 
